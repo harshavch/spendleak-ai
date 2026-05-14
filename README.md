@@ -5,7 +5,10 @@ Dark founder-grade AI spend auditor for Credex-ready savings discovery.
 A production-oriented Credex Round 1 build: deterministic audit math, public-safe result flow, lead capture endpoint, transactional email hook, benchmark intelligence, confidence score, and 30 audit-engine tests.
 
 ## Screenshots / video
-Add 3 real screenshots and a 30-second Loom after deployment. Do not leave this empty for final submission.
+
+<img width="1536" height="960" alt="Screenshot 2026-05-14 151016" src="https://github.com/user-attachments/assets/d5f0179a-5330-47c6-bf43-104d479ce07b" />
+
+<img width="1536" height="960" alt="Screenshot 2026-05-14 150702" src="https://github.com/user-attachments/assets/4084df1f-cbf5-44dd-a259-48ea5cf7ea55" />
 
 ## Quick start
 ```bash
