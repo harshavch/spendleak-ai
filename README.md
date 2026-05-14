@@ -4,6 +4,15 @@ Dark founder-grade AI spend auditor for Credex-ready savings discovery.
 
 A production-oriented Credex Round 1 build: deterministic audit math, public-safe result flow, lead capture endpoint, transactional email hook, benchmark intelligence, confidence score, and 30 audit-engine tests.
 
+
+## Live Demo
+
+Live URL: https://spendleakai.netlify.app
+
+GitHub URL:
+https://github.com/harshavch/spendleak-ai
+
+
 ## Screenshots / video
 
 <img width="1536" height="960" alt="Screenshot 2026-05-14 151016" src="https://github.com/user-attachments/assets/d5f0179a-5330-47c6-bf43-104d479ce07b" />
