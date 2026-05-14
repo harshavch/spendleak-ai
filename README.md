@@ -40,5 +40,4 @@ npm test
 4. Public reports must strip company/email but keep tools and savings to support virality.
 5. Benchmark and confidence scores make the report feel finance-literate, not like a generic calculator.
 
-## Live URL
-TODO: paste deployed Cloudflare/Netlify URL.
+
